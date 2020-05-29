@@ -1,0 +1,85 @@
+.container{
+    width: 300px;
+    height: 400px;
+    overflow: scroll;
+    background-color: red;
+}
+
+.all{
+    width: 300px;
+    height: 450px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.button{
+    width: 150px;
+    height: 30px;
+    background-color: yellow;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 100;
+    margin-left: 100px;
+    position: fixed;
+    margin-top: 700px;
+}
+
+.green{
+    background-color: green;
+}
+
+body{
+    height: 3000px;
+    background: url(img/voda.jpg) no-repeat center top / cover;
+}
+
+.buttontop{
+    width: 150px;
+    height: 30px;
+    background-color: yellow;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 100;
+    margin-left: 100px;
+    position: fixed;
+}
+
+.box{
+    width: 300px;
+    height: 400px;
+    overflow: scroll;
+    background: url(img/voda.jpg) no-repeat center top / cover;
+    color : whitesmoke;
+    margin: 0 auto;
+    opacity: 0.5;
+    position: relative;
+    top: 150px;
+}
+
+.click{
+    width: 100px;
+    height: 35px;
+    margin: 0 auto;
+    background-color: rebeccapurple;
+    position: relative;
+    top: 170px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 12.5px;
+    border-radius : 3px;
+}
+
+.blue{
+    background-color : blue;
+}
+
+.newPos{
+    position: relative;
+    top : -250px;
+    left: 400px;
+}
